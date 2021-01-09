@@ -1,6 +1,7 @@
-## CodePath PreWork: 
+## CodePath PreWork
 
 ### Simple Hello App
+Users can change text, text color, and background color with easy to use buttons. To return to default, tap anywhere on the screen.
 
 ### App Walk-though
 
